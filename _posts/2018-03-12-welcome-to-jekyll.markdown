@@ -1,24 +1,17 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Typography Assignment 3-Las Vegas!"
 date:   2018-03-12 10:48:03 +0530
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+The assignment required us to make 2 different double spreads for a travel magazine on any place we chose, one with grids, and another by breaking the grids. The place I chose was Las Vegas, and the 2 designs are as follows:
+<img width="810" alt="screen shot 2018-03-12 at 12 38 17 pm" src="https://user-images.githubusercontent.com/36826797/37269836-509c49b8-25f2-11e8-8260-6705e1628edf.png">
+This one is with breaking the grid.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-Jekyll also offers powerful support for code snippets:
+<img width="849" alt="screen shot 2018-03-12 at 12 36 37 pm" src="https://user-images.githubusercontent.com/36826797/37269910-8f3a2e42-25f2-11e8-923f-af5a40beebaa.png">
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+This one is with the grid.
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

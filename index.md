@@ -4,3 +4,4 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+This website is a record of all my interesting assignments
