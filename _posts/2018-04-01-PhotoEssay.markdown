@@ -1,10 +1,12 @@
+---
 layout: post
 title:  "Typography Assignment 3-Las Vegas!"
 comments: true
 date:   2018-03-12 10:48:03 +0530
 categories: jekyll update
-
+---
 This is an assignment that required to capture people's emotions through pictures.Following is my attempt at it.
+
 
 Phool gully (February 22, 2018)
 Through all my photograghs I have tried to portray how all of us, including those who spend their nights and days, trying hard to earn a livelihood at phool gully, are just human beings after all, even if we tend to ignore this. I have tried to capture all the hawkers, in their rawest moments as human beings, just doing everyday things that we all do, just existing together in harmony in a space called “the phool gully”. Amidst the busy lives, we tend to ignore the beauty of life, the purpose of these images was to resurface this joy.
@@ -34,3 +36,28 @@ Through all my photograghs I have tried to portray how all of us, including thos
 ![20180322_photoessay1_3](https://user-images.githubusercontent.com/36826797/38170885-8ad11e96-35ac-11e8-9820-1a1fac57bbce.JPG)
 
 ![20180322_photoessay_damiya-1_13](https://user-images.githubusercontent.com/36826797/38170886-947dc39a-35ac-11e8-8112-7298adb6d3c1.JPG)
+
+{% if page.comments %}
+
+<div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://https-damiyaj-github-io.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+{% endif %}
