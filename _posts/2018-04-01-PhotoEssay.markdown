@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Typography Assignment 3-Las Vegas!"
+title:  "Photo Essay!"
 comments: true
 date:   2018-03-12 10:48:03 +0530
 categories: jekyll update
@@ -36,6 +36,17 @@ Through all my photograghs I have tried to portray how all of us, including thos
 ![20180322_photoessay1_3](https://user-images.githubusercontent.com/36826797/38170885-8ad11e96-35ac-11e8-9820-1a1fac57bbce.JPG)
 
 ![20180322_photoessay_damiya-1_13](https://user-images.githubusercontent.com/36826797/38170886-947dc39a-35ac-11e8-8112-7298adb6d3c1.JPG)
+
+![20180322_photoessay_damiya-1_6](https://user-images.githubusercontent.com/36826797/38171067-6a2c1300-35af-11e8-85f1-95b38ce41349.JPG)
+
+![20180322_photoessay_damiya-1_16](https://user-images.githubusercontent.com/36826797/38171068-6d3ab8e4-35af-11e8-80eb-fe488938d60c.JPG)
+
+![20180322_photoessay_damiya-1_42](https://user-images.githubusercontent.com/36826797/38171069-7106648c-35af-11e8-9ffb-813854f10233.JPG)
+
+![20180322_photoessay_damiya-1_7](https://user-images.githubusercontent.com/36826797/38171070-74cbb1bc-35af-11e8-8062-bc6a7c9c0274.JPG)
+
+![20180322_photoessay_damiya-1_46](https://user-images.githubusercontent.com/36826797/38171071-77671376-35af-11e8-8616-701ec91ff977.JPG)
+
 
 {% if page.comments %}
 
